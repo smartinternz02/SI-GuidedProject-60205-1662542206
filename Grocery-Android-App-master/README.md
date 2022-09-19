@@ -1,6 +1,6 @@
 # About Me
 # SI-GuidedProject-60205-1662542206
-MY NAME PATTAN ROSHAN KHAN
+MY NAME IS PATTAN ROSHAN KHAN
 
 Virtual Internship - Android Application Development Using Kotlin
 
